@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Liming Pan / Site Title"
+title                    : "Liming Pan / Personal Page"
 title_separator          : "-"
 name                     : &name "Liming Pan"
 description              : &description "personal description"
